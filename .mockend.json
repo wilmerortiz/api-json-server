@@ -1,6 +1,6 @@
 {
   "User": {
-    "id": { "integer": {} },
+    "id": { "int": {} },
     "name": { "string" : {} },
     "username": { "string" : {} },
     "email": { "string" : {} },
